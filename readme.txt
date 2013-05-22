@@ -11,10 +11,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 
 A Better Planet is a widget for your dashboard which will show up to date news, tutorials and resources from over 30 contributing sites.
-For more information about the project and to submit your site, visit the official site: http://abetterplanetwp.com
+For more information about the project visit the official site: http://abetterplanetwp.com
 
 You may also follow the feed via RSS : http://abetterplanetwp.com/masterfeed
+
 And on Twitter : https://twitter.com/abetterplanetwp
+
+If you would like to submit your site, please do so at WPlift http://wplift.com/contact
 
 Thanks to WPtips for the code for the widget : http://wpti.ps/functions/make-latest-news-dashboard-widget
 
